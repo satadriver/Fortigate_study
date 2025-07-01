@@ -1,6 +1,19 @@
 # Prerequisites
 *.d
 
+
+*.VC.db
+*.ipch
+*.pdb
+ipch/
+*.ipch
+*.opendb
+*.tlog
+*.log
+*.1.tlog
+*.VC.db-shm
+*.VC.db-wal
+
 # Compiled Object files
 *.slo
 *.lo
