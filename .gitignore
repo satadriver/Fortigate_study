@@ -13,6 +13,7 @@ ipch/
 *.1.tlog
 *.VC.db-shm
 *.VC.db-wal
+*.idb
 
 # Compiled Object files
 *.slo
